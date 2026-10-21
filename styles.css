@@ -150,3 +150,4 @@ details.usecase[open] summary::after{background:var(--gold);color:var(--forest)}
 .contact-box{background:var(--forest)}
 @media(prefers-reduced-motion:reduce){.card:hover,details.usecase:hover{transform:none}}
 .photo-band + .section{padding-top:2.5rem!important}.usecase-body h4{color:#7a5c1f}.section h2::before{background:#a9843d}
+.photo-credit{flex-basis:100%;margin:.5rem 0 0;font-size:.78rem;color:#9fb0a2}
