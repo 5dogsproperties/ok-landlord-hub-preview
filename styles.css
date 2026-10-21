@@ -101,3 +101,4 @@ details.usecase[open] summary::after{transform:rotate(45deg);background:var(--cl
 @keyframes rise{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}.js .reveal{opacity:1;transform:none}}
 .contact-box .muted{color:#c9dade}.contact-box h2::before{display:none}
+.hero .muted{color:#d3e4e7;max-width:44rem}.hero .notice{max-width:44rem}.hero p:last-child{margin-bottom:0}
